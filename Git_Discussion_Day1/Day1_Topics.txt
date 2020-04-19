@@ -1,0 +1,4 @@
+Topics:
+1) History of Git
+2) Distributed vs Central version control system
+3) Getting started
